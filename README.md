@@ -1,2 +1,2 @@
 # javascript-practice
-Websites where I try to implement JavaScript
+Websites where I try to implement and practice JavaScript.
